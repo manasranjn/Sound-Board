@@ -1,0 +1,2 @@
+#Sound-Board
+This is an interactive project designed with simplicity and fun in mind. It features a set of buttons, each labeled with the name of a different song/musing. When a user clicks a button, the corresponding song/music begins to play. If another button is clicked, the currently playing sond stops, and the new selection plays instead. This ensures that only one track is active at a time, creating a smooth listening experience. This project is perfect for adding an engaging, audio-driven element to a web page.
